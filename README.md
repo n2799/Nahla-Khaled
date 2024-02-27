@@ -1,0 +1,1 @@
+classes Passenger, Flight, Ticket, and BookingPass communicates with each other to form final structure and simulates the system of generating boarding pass for the passengers. The solution can have two ends. On the other end, there can be an admin (example class included with method headers) who will be responsible of managing the tasks being performed under the hood
